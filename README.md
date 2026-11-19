@@ -1,6 +1,6 @@
-# Indian_Food_classification
+# Nutri-Estimate: Indian Food Classification & Calorie Estimation
 
-IndianFoodAI is a YOLO-based computer vision project for detecting Indian food items from images and estimating meal calories in a Streamlit web interface.
+Nutri-Estimate is a YOLO-based computer vision project for detecting Indian food items from images and estimating meal calories in an interactive Streamlit web dashboard.
 
 ## Highlights
 
@@ -142,17 +142,8 @@ Mandatory practices:
 
 ## GitHub Publishing :
 
-If your local commit is ready, run:
-
 ```bash
-git remote add origin https://github.com/itsAtharvv/Indian_Food_classification.git
-git push -u origin main
-```
-
-If `origin` already exists:
-
-```bash
-git remote set-url origin https://github.com/itsAtharvv/Indian_Food_classification.git
+git remote set-url origin https://github.com/VEDLESS/Nutri-Estimate.git
 git push -u origin main
 ```
 

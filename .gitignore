@@ -9,7 +9,10 @@ env/
 
 # Model weights and training outputs
 *.pt
+!best.pt
 runs/
+.ultralytics/
+*.cache
 
 # OS/editor files
 .DS_Store
